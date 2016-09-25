@@ -1,3 +1,5 @@
 # List
 
-This is for practise purpose repository based on the project making of c++ using linked list.
+This project is basically for learning the code for project.
+Here , i have taken the example with linked list and the 
+implementaion of the nodes .
